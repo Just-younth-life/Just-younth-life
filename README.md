@@ -22,5 +22,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
 
-- 🎨 [Sociology Healing Graphic IP](https://github.com/Just‑youth‑life/AI‑Creative‑Trials/tree/main/creative‑ip/sociology‑healing‑graphic)｜社会学洞察治愈图文IP资产库
-- 🏘️ [Community Science Popularization](https://github.com/Just‑youth‑life/AI‑Creative‑Trials/tree/main/creative‑ip/community‑science‑popularize)｜杉板桥社区AI科普产品方案与运营SOP
+- 🏘️ [ai‑social‑science｜杉板桥社区科普OPC落地项目](https://github.com/Just‑youth‑life/ai‑social‑science)
+    社区多节点AI科普传播体系、线上短视频+线下活动闭环、CloudRise工作台运营沉淀
+- 🎨 [AI‑Creative‑Trials｜AI创意试炼实验室](https://github.com/Just‑youth‑life/AI‑Creative‑Trials)
+    AIGC创意Demo、提示词工程、IP产品方案
+  └ sociology‑healing‑graphic：社会学洞察治愈图文IP资产库
