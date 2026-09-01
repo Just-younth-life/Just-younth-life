@@ -22,3 +22,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
 
+- 🎨 [Sociology Healing Graphic IP](https://github.com/Just‑youth‑life/AI‑Creative‑Trials/tree/main/creative‑ip/sociology‑healing‑graphic)｜社会学洞察治愈图文IP资产库
+- 🏘️ [Community Science Popularization](https://github.com/Just‑youth‑life/AI‑Creative‑Trials/tree/main/creative‑ip/community‑science‑popularize)｜杉板桥社区AI科普产品方案与运营SOP
